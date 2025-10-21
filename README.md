@@ -48,17 +48,6 @@ I hold a Master’s in International Business from University College Dublin (To
 
 ---
 
-## 🎓 Education
-
-- **University College Dublin (UCD), Ireland**  
-  Master’s in International Business | Top 5% of class  
-  *Statistics, Business & Financial Analysis, Data Visualization*
-
-- **Tata Institute of Social Sciences, India**  
-  Bachelor’s in Business Administration & Media Management
-
----
-
 ## 🌟 Projects
 
 - **British Airways Customer Experience Analysis**  
@@ -69,19 +58,6 @@ I hold a Master’s in International Business from University College Dublin (To
 
 ---
 
-## 🎤 Communication & Leadership
-
-- Toastmasters member: Experienced in presenting to large audiences & crafting engaging data stories.
-- Strong written and verbal communication skills—adept at translating data into business impact for any audience.
-
----
-
-## 🤝 Volunteering & Achievements
-
-- Supported logistics for Dublin Tech Summit (10,000+ attendees); streamlined operations and reduced wait times.
-- Greenwich International Student Conference delegate | National Merits List | Valedictorian
-
----
 
 > *“Turning data into actionable insights and compelling stories.”*
 
