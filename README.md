@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Neelam Salim Jat
+# 👋 Hello, I'm Neelam
 
 ### 📊 Data Analyst & Business Analyst | Storytelling with Data
 
