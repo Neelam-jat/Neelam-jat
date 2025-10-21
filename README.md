@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Neelam
+# Hello, I'm Neelam
 
 ### 📊 Data Analyst & Business Analyst | Storytelling with Data
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a passionate Data Analyst and Business Analyst with a keen ability to interpret complex data and translate insights into compelling stories for both technical and non-technical audiences. With a strong foundation in business administration and communications, I specialize in analyzing data, driving strategic decision-making, and presenting results that make an impact.
 
