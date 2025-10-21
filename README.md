@@ -30,20 +30,8 @@ I hold a Master’s in International Business from University College Dublin (To
 
 ---
 
-## 🌟 Projects
-
-- **British Airways Customer Experience Analysis**  
-  Developed an interactive Tableau dashboard analyzing 14K+ reviews, uncovering experience drivers and actionable insights.
-
-- **King County Real Estate Sales Dashboard**  
-  Built a Tableau dashboard to analyze 22K+ sales records, revealing price drivers and regional trends.
-
----
-
 
 > *“Turning data into actionable insights and compelling stories.”*
 
----
 
-**Let’s connect!**  
-[LinkedIn](https://www.linkedin.com/in/neelam-jat) | [Email](mailto:neelam.salimjat@gmail.com)
+
