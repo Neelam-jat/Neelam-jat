@@ -1,7 +1,7 @@
-# Hello, I'm Neelam 👋
+# Hello, I'm Neelam
 
 ### Data Analyst & Business Intelligence Strategist | Bridging Data Architecture with Business ROI
-📍 **Dublin, Ireland** | 📧 [neelam.salimjat@gmail.com](mailto:neelam.salimjat@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/neelam-jat) | 🌐 [Portfolio](#)
+📍 **Dublin, Ireland** | 📧 [neelam.salimjat@gmail.com](mailto:neelam.salimjat@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/neelam-jat) 
 
 ---
 
